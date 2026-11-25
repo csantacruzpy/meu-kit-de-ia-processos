@@ -48,40 +48,22 @@ Você não precisa instalar nada nem saber programar. Tudo acontece no navegador
 
 ## Minha Entrega
 
-Na sua cópia, abra este README, clique no lápis (**Edit this file**) e role até aqui. Troque cada frase em itálico pelo que você fez e cole o texto dentro dos blocos já prontos. Para pôr um print, é só colar a imagem com Ctrl+V. No fim, clique em **Commit changes**.
-
-Nada de e-mail, nome de cliente, dado da empresa, senha ou informação pessoal nos textos e nos prints.
-
 ### Minha Tarefa Real
 
-_Qual tarefa da sua semana você escolheu e por que ela vale a pena?_
+Escolhi a estruturação de Procedimentos Operacionais Padrão (POP) e o diagnóstico inicial de melhorias em processos administrativos e operacionais a partir de notas soltas de reuniões de levantamento. Essa tarefa se repete toda semana na minha rotina de consultoria e gestão da qualidade, consome bastante tempo na organização inicial e exige padronização clara (entradas, saídas, responsáveis e riscos) antes da validação com as áreas.
 
 ### Meus Atalhos
 
-_Conte quais modelos do kit você adaptou, o que ficou fixo e o que muda a cada uso._
+Adaptei dois modelos da pasta `01-prompts` (escrita/estruturação e análise/comunicação). Deixei **fixo** o papel de especialista em Gestão de Processos e ISO 9001, as regras de não inventar informações e a estrutura padrão de saída (tabelas e tópicos). O que **muda a cada uso** são apenas as notas brutas da reunião ou o desvio operacional específico entre colchetes.
 
 ```text
-Cole aqui o seu primeiro atalho, já adaptado.
-```
+Atue como Especialista Sênior em Gestão de Processos, Qualidade (ISO 9001) e Melhoria Contínua.
+Contexto: Receberá notas desordenadas de uma reunião de levantamento operacional.
+Objetivo: Transformar essas notas em um Procedimento Operacional Padrão (POP) claro e objetivo.
+Formato de saída:
+1. Objetivo do processo, entradas, saídas e responsáveis.
+2. Fluxo passo a passo numerado.
+3. Tabela com pelo menos 3 riscos operacionais ou gargalos identificados e sugestões de controle.
+Regras: Não invente etapas que não estejam implícitas no texto. Se faltar alguma informação crítica, liste ao final na seção "Perguntas para validar com a área".
 
-```text
-Cole aqui o seu segundo atalho, já adaptado.
-```
-
-### Minha Delegação
-
-```text
-Cole aqui o pedido que você entregou à IA, com objetivo, contexto, recursos, limites e sucesso.
-```
-
-### O Plano da IA
-
-_Cole o print do plano e conte o que você ajustou antes de a IA começar._
-
-### O Resultado
-
-_Cole o print do resultado e conte como você conferiu antes de usar._
-
-### Como Foi para Você
-
-_Conte em poucas linhas o que mudou no seu dia a dia._
+Notas da reunião: [COLE AQUI AS ANOTAÇÕES DA REUNIÃO]
